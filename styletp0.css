@@ -15,7 +15,7 @@ body{
 	margin-top: 30px;
 	background-color: pink;
 	margin:auto;
-	/*overflow: hidden;*/
+	overflow: hidden;
 }
 .banner-container img{
 	width: 100%;
